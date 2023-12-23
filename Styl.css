@@ -1,0 +1,10 @@
+.WpPusher {
+    width: 1440px;
+    height: 1170px;
+    position: relative;
+    background: #F5F8FA;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: inline-flex
+}
